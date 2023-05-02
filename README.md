@@ -1,0 +1,3 @@
+# cuterose
+
+yet another colorscheme
