@@ -2,7 +2,7 @@
 
 yet another colorscheme
 
-![The five colors : Dark Gray, black, pink, beige and Light Gray.](https://codeberg.org/oomfie/cuterose/raw/branch/main/png%20/colorscheme.png)
+![The five colors : Dark Gray, black, pink, beige and Light Gray.](png/colorscheme.png)
 
 |Dark Gray| Black   | Pink    | Beige   |Light Gray|
 |---------|---------|---------|---------|----------|
