@@ -2,7 +2,7 @@
 
 yet another colorscheme
 
-![The five colors : Dark Gray, black, pink, beige and Light Gray.](png/colorscheme.png)
+![The five colors : Dark Gray, black, pink, beige and Light Gray.](png/colorscheme.svg)
 
 |Dark Gray| Black   | Pink    | Beige   |Light Gray|
 |---------|---------|---------|---------|----------|
