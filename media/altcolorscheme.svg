@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="620"
+   height="160"
+   version="1.1"
+   id="svg288"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs292" />
+  <rect
+     width="124"
+     height="160"
+     x="0"
+     y="0"
+     fill="#877b87"
+     id="rect278"
+     style="fill:#72555f;fill-opacity:1" />
+  <rect
+     width="124"
+     height="160"
+     x="124"
+     y="0"
+     fill="#1e1e20"
+     id="rect280"
+     style="fill:#1d1913;fill-opacity:1" />
+  <rect
+     width="124"
+     height="160"
+     x="248"
+     y="0"
+     fill="#dd9999"
+     id="rect282"
+     style="fill:#b37c7c;fill-opacity:1" />
+  <rect
+     width="124"
+     height="160"
+     x="372"
+     y="0"
+     fill="#f5e0dc"
+     id="rect284"
+     style="fill:#eed8db;fill-opacity:1" />
+  <rect
+     width="124"
+     height="160"
+     x="496"
+     y="0"
+     fill="#bdbdbd"
+     id="rect286"
+     style="fill:#f1eee9;fill-opacity:1" />
+</svg>
