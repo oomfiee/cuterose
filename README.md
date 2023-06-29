@@ -8,7 +8,7 @@ yet another colorscheme
 
 ### Chilly
 
-![The five colors : Dark Gray, black, pink, beige and Light Gray.](media/colorschemes.svg#Chilly)
+![The five colors : Dark Gray, black, pink, beige and Light Gray.](media/chilly.svg)
 
 |Dark Gray| Black   | Pink    | Beige   |Light Gray|
 |---------|---------|---------|---------|----------|
@@ -18,8 +18,8 @@ yet another colorscheme
 
 ### Misty
 
-![The five colors : Rose ebony, black, pink, beige and Isabelline.](media/colorschemes.svg#Misty)
+![The five colors : Rose ebony, black, pink, beige and Isabelline.](media/misty.svg)
 
 |Rose ebony| Black   | Pink    | Beige   |Isabelline|
 |----------|---------|---------|---------|----------|
-|`#877b87` |`#1A1611`|`#b37c7c`|`#eed8db`|`#f1eee9` |
+|`#72555f` |`#1d1913`|`#b37c7c`|`#eed8db`|`#f1eee9` |

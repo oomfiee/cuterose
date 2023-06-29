@@ -1,0 +1,17 @@
+<svg width="620" height="160" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="MistyColors" x1="0" x2="1">
+            <stop offset="20%" stop-color="#72555f" /> <!-- Rose ebony -->
+            <stop offset="20%" stop-color="#1d1913" /> <!-- Black -->
+            <stop offset="40%" stop-color="#1d1913" />
+            <stop offset="40%" stop-color="#b37c7c" /> <!-- Pink -->
+            <stop offset="60%" stop-color="#b37c7c" />
+            <stop offset="60%" stop-color="#eed8db" /> <!-- Beige -->
+            <stop offset="80%" stop-color="#eed8db" />
+            <stop offset="80%" stop-color="#f1eee9" /> <!-- Isabelline -->
+        </linearGradient>
+    </defs>
+
+    <rect fill="url(#MistyColors)" height="100%" width="100%" />
+
+</svg>
