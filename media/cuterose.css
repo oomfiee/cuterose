@@ -1,0 +1,17 @@
+/* copy the content of this file in the css file that will be using the color scheme */
+
+	
+/* cuterose by oomfie - codeberg.org/oomfie/cuterose */
+:root {
+	--chilly-dark: #877b87;
+	--chilly-black: #1e1e20;
+	--chilly-pink: #dd9999;
+	--chilly-beige: #f5e0dc;
+	--chilly-light: #bdbdbd;
+
+	--misty-ebony: #72555f;
+	--misty-black: #1d1913;
+	--misty-pink: #b37c7c;
+	--misty-beige: #eed8db;
+	--misty-isabelline: #f1eee9;
+}
