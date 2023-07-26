@@ -1,5 +1,5 @@
 <div align="center">
-<img src="media/logo.png" width="160" title="Logo of the cuterose colorscheme">
+<img src="media/logo.svg" width="160" title="Logo of the cuterose colorscheme">
 <h1 align="center">cuterose</h1>
 
 yet another colorscheme
