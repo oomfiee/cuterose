@@ -1,104 +1,34 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="334.83057"
-   height="396.24963"
-   viewBox="0 0 334.83057 396.24963"
-   version="1.1"
-   id="svg5"
-   xml:space="preserve"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs2"><filter
-       id="filter0_d"
-       x="45.3083"
-       y="22.409901"
-       width="106.011"
-       height="154.02699"
-       filterUnits="userSpaceOnUse"
-       color-interpolation-filters="sRGB"><feFlood
-         flood-opacity="0"
-         result="BackgroundImageFix"
-         id="feFlood367" /><feColorMatrix
-         in="SourceAlpha"
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-         id="feColorMatrix369" /><feOffset
-         dy="6"
-         id="feOffset371" /><feGaussianBlur
-         stdDeviation="2"
-         id="feGaussianBlur373" /><feColorMatrix
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
-         id="feColorMatrix375" /><feBlend
-         mode="normal"
-         in2="BackgroundImageFix"
-         result="effect1_dropShadow"
-         id="feBlend377" /><feBlend
-         mode="normal"
-         in="SourceGraphic"
-         in2="effect1_dropShadow"
-         result="shape"
-         id="feBlend379" /></filter><filter
-       id="filter1_d"
-       x="73"
-       y="28"
-       width="104"
-       height="106"
-       filterUnits="userSpaceOnUse"
-       color-interpolation-filters="sRGB"><feFlood
-         flood-opacity="0"
-         result="BackgroundImageFix"
-         id="feFlood4090" /><feColorMatrix
-         in="SourceAlpha"
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-         id="feColorMatrix4092" /><feOffset
-         dy="6"
-         id="feOffset4094" /><feGaussianBlur
-         stdDeviation="2"
-         id="feGaussianBlur4096" /><feColorMatrix
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
-         id="feColorMatrix4098" /><feBlend
-         mode="normal"
-         in2="BackgroundImageFix"
-         result="effect1_dropShadow"
-         id="feBlend4100" /><feBlend
-         mode="normal"
-         in="SourceGraphic"
-         in2="effect1_dropShadow"
-         result="shape"
-         id="feBlend4102" /></filter></defs><g
-     style="fill:none"
-     id="g400"
-     transform="matrix(2.5725987,0,0,2.5725987,-116.56006,-57.651681)"><g
-       filter="url(#filter0_d)"
-       id="g363"
-       style="fill:none;fill-opacity:1"><path
-         d="m 53.4356,30.671 v 10e-5 L 53.3084,139.495 c -0.0045,3.838 3.042,6.887 6.7507,7.078 3.3604,0.174 9.2839,0.63 15.7023,1.81 53.23405,12.20406 36.61072,-0.46035 65.9726,-37.84 2.318,-2.869 2.107,-7.141 -0.715,-9.711 L 60.5475,27.534 v 0 C 57.8201,25.0498 53.44,26.9819 53.4356,30.671 Z"
-         stroke="#0000ff"
-         stroke-width="8"
-         id="path361"
-         style="fill:#877b87;fill-opacity:1;stroke:#f5e0dc;stroke-opacity:1" /></g><path
-       d="M 57.4365,30.1108 57.3074,140.49 c -0.0013,1.097 0.8678,1.995 1.9638,2.042 30.265388,-27.19132 65.46906,-22.31641 79.9758,-35.268 0.693,-0.842 0.611,-2.08 -0.195,-2.814 z"
-       fill="#00ff00"
-       id="path3100"
-       style="fill:none;fill-opacity:1;stroke:#f5e0dc;stroke-width:1.70571;stroke-dasharray:none;stroke-opacity:1" /></g><g
-     style="fill:none"
-     id="g4134"
-     transform="matrix(2.5460896,0,0,2.5460896,-115.82725,-54.558091)"><g
-       filter="url(#filter1_d)"
-       id="g4071"><rect
-         x="77"
-         y="28"
-         width="96"
-         height="96"
-         rx="30"
-         fill="#11d116"
-         id="rect4069"
-         style="fill:#1e1e20;fill-opacity:1" /></g><path
-       d="M 120.896,48 V 71.9117 H 97 v 7.9706 h 23.896 v 23.9117 h 7.965 V 79.8823 h 23.896 V 71.9117 H 128.861 V 48 Z"
-       fill="#ffffff"
-       id="path4073" /></g></svg>
+<svg width="334.831" height="396.25" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="a" x="45.308" y="22.41" width="106.011" height="154.027" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+            <feOffset dy="6" />
+            <feGaussianBlur stdDeviation="2" />
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend in2="BackgroundImageFix" result="effect1_dropShadow" />
+            <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+        </filter>
+        <filter id="b" x="73" y="28" width="104" height="106" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+            <feOffset dy="6" />
+            <feGaussianBlur stdDeviation="2" />
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend in2="BackgroundImageFix" result="effect1_dropShadow" />
+            <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+        </filter>
+    </defs>
+    <g style="fill:none">
+        <g filter="url(#a)" style="fill:none;fill-opacity:1" transform="matrix(2.5726 0 0 2.5726 -116.56 -57.652)">
+            <path d="m53.436 30.671-.128 108.824c-.004 3.838 3.042 6.887 6.751 7.078 3.36.174 9.284.63 15.702 1.81 53.234 12.204 36.611-.46 65.973-37.84 2.318-2.869 2.107-7.141-.715-9.711L60.547 27.534c-2.727-2.484-7.107-.552-7.111 3.137z" stroke="#00f" stroke-width="8" style="fill:#877b87;fill-opacity:1;stroke:#f5e0dc;stroke-opacity:1" />
+        </g>
+        <path d="m57.437 30.11-.13 110.38a2.046 2.046 0 0 0 1.964 2.042c30.266-27.191 65.47-22.316 79.976-35.268a2.047 2.047 0 0 0-.195-2.814z" fill="#0f0" style="fill:none;fill-opacity:1;stroke:#f5e0dc;stroke-width:1.70571;stroke-dasharray:none;stroke-opacity:1" transform="matrix(2.5726 0 0 2.5726 -116.56 -57.652)" />
+    </g>
+    <g style="fill:none">
+        <g filter="url(#b)" transform="matrix(2.54609 0 0 2.54609 -115.827 -54.558)">
+            <rect x="77" y="28" width="96" height="96" rx="30" fill="#11d116" style="fill:#1e1e20;fill-opacity:1" />
+        </g>
+        <path d="M191.985 67.654v60.882h-60.842v20.293h60.842v60.882h20.28v-60.882h60.84v-20.293h-60.84V67.654z" fill="#fff" />
+    </g>
+</svg>
