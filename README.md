@@ -7,33 +7,6 @@ yet another colorscheme
 <br>
 
 
-# Extended Edition
-
-![The Extended Edition of cuterose](media/extended_edition.svg)
-
-
-### Background Colors:
-
-|Black | BG0   | BG1    | BG2   | BG3 | GB4 |  Gray_dim| Gray| White |
-|---------|---------|---------|---------|----------|----------|----------|----------|----------|
-|`#1e1e20`|`#303033`|`#414145`|`#4f4f54`|`#5b5b61` | `#65656b`| `#73737a`|`#c0c0c0`| `#f1eee9`|
-
-
-### Main Colors: 
-
-|Accent | Green   | Yellow    | Blue   | Purple | Pink | Orange |
-|---------|---------|---------|---------|----------|----------|----------|
-|`#dd9999`|`#a3d79f`|`#dbd990`|`#92cdc9`|`#9a98d0` | `#d293b3`| `#dcc083`|
-
-
-### Dim Colors:
-
-|Accent_dim | Green_dim  | Yellow_dim  | Blue_dim   | Orange_dim | Pink_dim | Purple_dim |
-|---------|---------|---------|---------|----------|----------|----------|
-|`#a8868a`|`#8ba58d`|`#a7a685`|`#9fc0bd`|`#c6b899` | `#9f8797`| `#a4a3c5`|
-
-
-
 # Monochrome Edition
 
 ### Chilly
