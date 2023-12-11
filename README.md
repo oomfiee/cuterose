@@ -28,9 +28,9 @@ yet another colorscheme
 
 ### Dim Colors:
 
-|Accent_dim | Green_dim  | Yellow_dim  | Blue_dim   | Orange_dim | Pink_dim | Purple_dim |
+|Accent_dim | Green_dim  | Yellow_dim  | Blue_dim   | Purple_dim | Pink_dim | Orange_dim |
 |---------|---------|---------|---------|----------|----------|----------|
-|`#a8868a`|`#8ba58d`|`#a7a685`|`#9fc0bd`|`#c6b899` | `#9f8797`| `#a4a3c5`|
+|`#a8868a`|`#8ba58d`|`#a7a685`|`#9fc0bd`|`#a4a3c5` | `#9f8797`| `#c6b899`|
 
 
 
